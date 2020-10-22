@@ -13,7 +13,7 @@ Deep graph library (https://www.dgl.ai/)
 
 # Video illustration for the various tasks:
 
-Please find a short video at ../tasks_video.mp4 to get a better understanding of the tasks used in this  paper.  
+Please find a short video at tasks_video.mp4 to get a better understanding of the tasks used in this  paper.  
 
 # Pre-trained models:
 
