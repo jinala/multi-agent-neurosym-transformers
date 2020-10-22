@@ -1,4 +1,4 @@
-## Learning to Communicate in Multi-Agent Systems via Transformer-Guided Program Synthesis
+## Neurosymbolic Transformers for Multi-Agent Communication
 
 # Dependencies 
 
